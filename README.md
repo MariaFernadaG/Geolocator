@@ -11,8 +11,8 @@
 
 🛠 Tecnologias Utilizadas
 
-  Flutter (Framework multiplataforma)
-  geolocator (Pacote para acesso à localização)
+  ##Flutter (Framework multiplataforma)##
+  ##geolocator (Pacote para acesso à localização)##
   google_maps_flutter (Integração com Google Maps)
   flutter_bloc (Gerenciamento de estado)
   permission_handler (Controle de permissões)
