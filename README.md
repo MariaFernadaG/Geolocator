@@ -1,16 +1,22 @@
 # geolocator_mobile
 
-A new Flutter project.
+📌 Visão Geral
 
-## Getting Started
+  Geolocator mobile é um aplicativo Flutter que utiliza a integração de serviços de localização com Google Maps.
 
-This project is a starting point for a Flutter application.
+✨ Funcionalidades Principais
 
-A few resources to get you started if this is your first Flutter project:
+   Obtenção precisa de coordenadas (latitude/longitude).
+   Exibição da localização atual no Google Maps para exibição de restaurantes da cidade.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠 Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Flutter (Framework multiplataforma)
+  geolocator (Pacote para acesso à localização)
+  google_maps_flutter (Integração com Google Maps)
+  flutter_bloc (Gerenciamento de estado)
+  permission_handler (Controle de permissões)
+  flutter_config (Configuração segura de chaves de API)
+
+
+
